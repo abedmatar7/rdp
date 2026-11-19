@@ -5,7 +5,7 @@ on:
 
 jobs:
   secure-rdp:
-    runs-on: windows-latest
+    runs-on: avrea-windows-latest-2-vcpu
     timeout-minutes: 3600
 
     steps:
